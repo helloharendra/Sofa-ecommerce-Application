@@ -1,10 +1,4 @@
-# Web-application-using-flutter
-
-Certainly! Below is a sample README for your Flutter-based sofa e-commerce web application. You can customize it according to your project's specific details and requirements.
-
----
-
-# Sofa E-Commerce Web Application
+# Sofa E-Commerce Web Application UI using flutter
 
 ![Logo or Banner Image](path/to/your/logo_or_banner.png)
 
