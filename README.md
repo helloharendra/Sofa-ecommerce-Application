@@ -31,15 +31,27 @@ Welcome to the Sofa E-Commerce Web Application! This project is a fully function
 
 ## Screenshots
 
-![Home Screen](![Screenshot 2024-06-16 at 1 42 23 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/546c9477-1647-4e0a-a690-b255fec95550)
-)
-*Caption: Home Screen*
+![Screenshot 2024-06-16 at 1 42 23 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/546c9477-1647-4e0a-a690-b255fec95550)
 
-![Product Details](path/to/product_details.png)
-*Caption: Product Details Page*
+![Screenshot 2024-06-16 at 1 42 34 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/0f8da54d-0d37-4ff4-81e5-3b5d033f7aa1)
 
-![Shopping Cart](path/to/shopping_cart.png)
-*Caption: Shopping Cart Page*
+![Screenshot 2024-06-16 at 1 42 41 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/1279d924-c573-4c01-9f44-3ff1b862ae97)
+
+![Screenshot 2024-06-16 at 1 42 48 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/f91bca18-2179-4dde-b4bc-b2cefc190e16)
+
+![Screenshot 2024-06-16 at 1 42 55 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/f13f9d73-5175-4da6-b6ab-8e5f20092fb1)
+
+
+![Screenshot 2024-06-16 at 1 43 02 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/300c6b8b-4c5c-4deb-9e8d-32e8e5db5b0f)
+
+![Screenshot 2024-06-16 at 1 43 09 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/4a86de79-7cff-4f16-9974-cf5bb752086c)
+
+![Screenshot 2024-06-16 at 1 43 15 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/65945af9-de50-43ef-afa6-b912da427264)
+
+![Screenshot 2024-06-16 at 1 43 25 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/035d4074-46b4-43e4-89a8-c1222c89c6ce)
+
+![Screenshot 2024-06-16 at 1 43 37 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/57414d83-0cd6-4b96-bbb8-191c04a5f481)
+
 
 ## Installation
 
