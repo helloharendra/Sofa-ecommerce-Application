@@ -98,9 +98,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-website:  [[www.helloharendra.com]([https://helloharendra.github.io/](https://tanyafinance.com/harendraprajapati/)]
+website:  [www.helloharendra.com](https://tanyafinance.com/harendraprajapati/)
 
-Visit us: [[www.helloharendra.com](https://helloharendra.github.io/)]
+Visit us: [www.helloharendra.com](https://helloharendra.github.io/)
 
 Project Link: [https://github.com/helloharendra/Sofa-ecommerce-Application](https://github.com/helloharendra/Sofa-ecommerce-Application)
 
