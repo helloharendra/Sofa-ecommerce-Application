@@ -98,7 +98,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [harendraprajapati72@gmail.com](harendraprajapati72@gmail.com)
+Your Name - [www.helloharendra.com]([harendraprajapati72@gmail.com](https://helloharendra.github.io/))
 
 Project Link: [https://github.com/helloharendra/Sofa-ecommerce-Application](https://github.com/helloharendra/Sofa-ecommerce-Application)
 
