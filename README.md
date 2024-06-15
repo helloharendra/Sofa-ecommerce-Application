@@ -98,11 +98,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Your Name - [harendraprajapati72@gmail.com](harendraprajapati72@gmail.com)
 
 Project Link: [https://github.com/helloharendra/Sofa-ecommerce-Application](https://github.com/helloharendra/Sofa-ecommerce-Application)
 
----
 
-Feel free to modify any section according to your project's specifics. Make sure to replace placeholders with actual paths, email addresses, and project links.
  
