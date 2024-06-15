@@ -31,7 +31,8 @@ Welcome to the Sofa E-Commerce Web Application! This project is a fully function
 
 ## Screenshots
 
-![Home Screen](path/to/home_screen.png)
+![Home Screen](![Screenshot 2024-06-16 at 1 42 23 AM](https://github.com/helloharendra/Sofa-ecommerce-Application/assets/78723011/546c9477-1647-4e0a-a690-b255fec95550)
+)
 *Caption: Home Screen*
 
 ![Product Details](path/to/product_details.png)
