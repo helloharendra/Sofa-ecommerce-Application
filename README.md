@@ -98,7 +98,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-website:  [[www.helloharendra.com]([https://helloharendra.github.io/](https://tanyafinance.com/harendraprajapati/))]
+website:  [[www.helloharendra.com]([https://helloharendra.github.io/](https://tanyafinance.com/harendraprajapati/)]
 
 Visit us: [[www.helloharendra.com](https://helloharendra.github.io/)]
 
