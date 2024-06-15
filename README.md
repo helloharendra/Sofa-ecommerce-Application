@@ -1,6 +1,6 @@
 # Sofa E-Commerce Web Application UI using flutter
 
-![Logo or Banner Image](path/to/your/logo_or_banner.png)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## Table of Contents
 
